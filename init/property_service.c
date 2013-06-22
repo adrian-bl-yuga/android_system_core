@@ -87,6 +87,7 @@ struct {
     { "debug.",           AID_SYSTEM,   0 },
     { "debug.",           AID_SHELL,    0 },
     { "log.",             AID_SHELL,    0 },
+    { "camera.",          AID_MEDIA,    0 },
     { "service.adb.root", AID_SHELL,    0 },
     { "service.adb.tcp.port", AID_SHELL,    0 },
     { "persist.sys.",     AID_SYSTEM,   0 },
